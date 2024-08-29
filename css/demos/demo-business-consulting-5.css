@@ -116,7 +116,7 @@ p {
 }
 
 .btn-dash.text-color-primary:before {
-    background: var(--primary);
+    background: #29f0ea;
 }
 
 #header .header-container {
@@ -169,7 +169,7 @@ p {
 }
 
 .tabs-navigation-custom .nav-tabs .nav-item .nav-link.active:before {
-    background: var(--primary);
+    background: #29f0ea;
 }
 
 .custom-marquee {
@@ -182,7 +182,10 @@ p {
 }
 
 .custom-outline-text-style-1 {
-    text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
+    text-shadow: -1px 1px 0 #000,
+ 1px 1px 0 #000,
+ 1px -1px 0 #000,
+ -1px -1px 0 #000;
     letter-spacing: 0;
     color: var(--light);
     opacity: 0.08;

@@ -248,5 +248,5 @@ h1, h2, h3 {
 * Custom Line
 */
 .custom-line {
-    border-bottom-color: var(--primary);
+    border-bottom-color: #29f0ea;
 }

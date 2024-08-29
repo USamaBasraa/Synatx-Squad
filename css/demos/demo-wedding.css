@@ -343,7 +343,7 @@
 /* Skin */
 @media (min-width: 992px) {
     #header .header-nav.header-nav-line:not(.header-nav-light-text) nav > ul > li > a {
-        color: var(--primary);
+        color: #29f0ea;
     }
     #header .header-nav.header-nav-line:not(.header-nav-light-text) nav > ul > li:hover > a {
         color: var(--primary--100);
@@ -351,9 +351,9 @@
 }
 
 .slider .slotholder:after {
-    background-color: var(--primary);
+    background-color: #29f0ea;
 }
 
 .custom-thumb-info-style-1 .thumb-info-wrapper:after {
-    background: var(--primary);
+    background: #29f0ea;
 }

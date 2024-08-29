@@ -159,7 +159,7 @@ p {
         left: 50%;
         width: 0%;
         height: 25%;
-        background-color: var(--primary);
+        background-color: #29f0ea;
         z-index: -1;
         right: 0;
     }

@@ -1083,7 +1083,7 @@ p.lead {
     height: 1px;
     left: 0;
     position: absolute;
-    background: var(--primary);
+    background: #29f0ea;
     transition: cubic-bezier(0.55, 0, 0.1, 1) transform 300ms;
     width: 100%;
     transform: translateY(0px);

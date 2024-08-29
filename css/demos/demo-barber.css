@@ -418,14 +418,14 @@ body {
 
 /* Skin */
 .svg-primary circle {
-    stroke: var(--primary);
-    fill: var(--primary);
+    stroke: #29f0ea;
+    fill: #29f0ea;
 }
 
 .custom-side-dots:before, .custom-side-dots:after {
-    background-color: var(--primary);
+    background-color: #29f0ea;
 }
 
 .custom-working-hours .custom-working-hours-item:hover, .custom-working-hours .custom-working-hours-item.active {
-    background-color: var(--primary);
+    background-color: #29f0ea;
 }

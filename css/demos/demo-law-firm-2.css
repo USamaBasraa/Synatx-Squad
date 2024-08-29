@@ -485,19 +485,19 @@ h1, h2, h3, h4, h5, h6 {
 * Accordion
 */
 .custom-accordion-style-1 > .card .card-header a:not(.collapsed) {
-    color: var(--primary) !important;
+    color: #29f0ea !important;
 }
 
 .custom-accordion-style-1 > .card .card-header a:not(.collapsed):after {
-    color: var(--primary);
+    color: #29f0ea;
 }
 
 .custom-accordion-style-1 > .card:hover .card-header a {
-    color: var(--primary) !important;
+    color: #29f0ea !important;
 }
 
 .custom-accordion-style-1 > .card:hover .card-header a:after {
-    color: var(--primary);
+    color: #29f0ea;
 }
 
 /*
@@ -524,20 +524,20 @@ h1, h2, h3, h4, h5, h6 {
 * Cards
 */
 .custom-card-style-1:hover .card-title {
-    color: var(--primary) !important;
+    color: #29f0ea !important;
 }
 
 /*
 * Social Icons
 */
 .social-icons.custom-social-icons-style-1 li a {
-    color: var(--primary) !important;
+    color: #29f0ea !important;
 }
 
 /*
 * Custom See More Overlay
 */
 .custom-seemore-overlay .custom-seemore-overlay-button:before {
-    background: var(--primary);
-    background: linear-gradient(180deg, rgba(2, 0, 36, 0) 0%, var(--primary) 100%);
+    background: #29f0ea;
+    background: linear-gradient(180deg, rgba(2, 0, 36, 0) 0%, #29f0ea 100%);
 }

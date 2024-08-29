@@ -188,6 +188,6 @@ h4, h5, h6 {
 /* Skin */
 @media (min-width: 992px) {
     html #header .header-nav:not(.header-nav-line):not(.header-nav-links) .header-nav-main nav > ul:not(:hover) > li.dropdown-full-color.dropdown-quaternary > a.active {
-        color: var(--primary);
+        color: #29f0ea;
     }
 }

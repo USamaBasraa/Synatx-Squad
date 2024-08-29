@@ -226,5 +226,5 @@ html.sticky-header-active #header .header-social-icons > li > a > i {
 /* Skin */
 /* Animated Circles */
 .custom-animated-circles-primary .circle {
-    border-color: var(--primary) !important;
+    border-color: #29f0ea !important;
 }

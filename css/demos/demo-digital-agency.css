@@ -330,17 +330,17 @@
 * Tabs
 */
 .custom-tabs-style-1.tabs .nav-tabs .nav-link.active h4 {
-    color: var(--primary);
+    color: #29f0ea;
 }
 
 /*
 * Accordion
 */
 .custom-accordion-style-1 > .card .card-header a:not(.collapsed) {
-    background-color: var(--primary);
+    background-color: #29f0ea;
     color: var(--primary-inverse) !important;
 }
 
 .custom-accordion-style-1 > .card:hover .card-header a.collapsed {
-    color: var(--primary) !important;
+    color: #29f0ea !important;
 }

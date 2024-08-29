@@ -196,7 +196,7 @@ html.sticky-header-active #header .header-body {
         color: var(--grey-500) !important;
     }
     #header .header-nav-main nav > ul > li:hover > a, #header .header-nav-main nav > ul > li.open > a {
-        color: var(--primary) !important;
+        color: #29f0ea !important;
     }
 }
 
@@ -263,19 +263,19 @@ html.sticky-header-active #header .header-body {
 * Header
 */
 #header .header-nav-main nav > ul > li > a.active {
-    color: var(--primary) !important;
+    color: #29f0ea !important;
 }
 
 #header .header-nav-main nav > ul > li > a.active:before {
-    border-color: var(--primary);
+    border-color: #29f0ea;
 }
 
 #header .header-nav-main nav > ul > li:hover > a.active, #header .header-nav-main nav > ul > li.open > a.active {
-    color: var(--primary) !important;
+    color: #29f0ea !important;
 }
 
 #header .header-nav-main nav > ul > li:hover > a.active:before, #header .header-nav-main nav > ul > li.open > a.active:before {
-    border-color: var(--primary);
+    border-color: #29f0ea;
 }
 
 /*

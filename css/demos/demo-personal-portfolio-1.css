@@ -15,7 +15,7 @@ h3 {
     font-size: 1.1em;
     font-weight: 500;
     letter-spacing: 0;
-    color: var(--primary);
+    color: #29f0ea;
     padding-left: 90px;
     position: relative;
 }
@@ -28,7 +28,7 @@ h3:before {
     top: 50%;
     left: 0;
     display: block;
-    background-color: var(--primary);
+    background-color: #29f0ea;
 }
 
 h3.short {

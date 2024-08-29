@@ -552,13 +552,13 @@ body {
 * Testimonial
 */
 .testimonial.custom-testimonial-style-1.testimonial-style-4 blockquote:before {
-    color: var(--primary);
+    color: #29f0ea;
 }
 
 /*
 * Pagination
 */
 .custom-pagination-style-1 .page-item.active .page-link, .custom-pagination-style-1 .page-item:hover .page-link {
-    border-color: var(--primary);
-    background-color: var(--primary) !important;
+    border-color: #29f0ea;
+    background-color: #29f0ea !important;
 }

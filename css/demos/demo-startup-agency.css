@@ -370,12 +370,12 @@ body {
 }
 
 .custom-svg-linear-gradient stop:nth-child(2) {
-    stop-color: var(--primary) !important;
+    stop-color: #29f0ea !important;
 }
 
 path.custom-svg-fill-color-primary,
 circle.custom-svg-fill-color-primary {
-    fill: var(--primary) !important;
+    fill: #29f0ea !important;
 }
 
 path.custom-svg-fill-color-secondary,

@@ -282,5 +282,5 @@ html:not(.sticky-header-active) #header .header-body.header-border-bottom {
 /* Skin */
 /* Product Carousel Thumb Gallery */
 .thumb-gallery-wrapper .thumb-gallery-thumbs .owl-item:hover, .thumb-gallery-wrapper .thumb-gallery-thumbs .owl-item.selected {
-    border-color: var(--primary);
+    border-color: #29f0ea;
 }

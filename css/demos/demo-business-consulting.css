@@ -1028,7 +1028,7 @@ article.blog-post .blog-post-image-wrapper .blog-post-date .month-year {
 
 /* Skin */
 .dropdown-menu > li > a i {
-    color: var(--primary);
+    color: #29f0ea;
 }
 
 html #header.header-semi-transparent .header-body:before, html #header.header-semi-transparent-light .header-body:before {
@@ -1037,24 +1037,24 @@ html #header.header-semi-transparent .header-body:before, html #header.header-se
 
 @media (min-width: 992px) {
     #header .header-nav-main.header-nav-main-square nav > ul > li.active > a {
-        color: var(--primary) !important;
+        color: #29f0ea !important;
     }
     #header .header-nav-main.header-nav-main-square nav > ul > li.active > a.dropdown-toggle::after {
-        border-color: var(--primary) transparent transparent !important;
+        border-color: #29f0ea transparent transparent !important;
     }
     #header .header-nav-main.header-nav-main-square nav > ul > li:hover > a {
-        color: var(--primary) !important;
+        color: #29f0ea !important;
     }
     #header .header-nav-main.header-nav-main-square nav > ul > li:hover > a.dropdown-toggle::after {
-        border-color: var(--primary) transparent transparent !important;
+        border-color: #29f0ea transparent transparent !important;
     }
 }
 
 .btn-primary.active:not([disabled]):not(.disabled),
 .btn-primary:active:not([disabled]):not(.disabled),
 .show > .btn-primary.dropdown-toggle {
-    background-color: var(--primary);
-    border-color: var(--primary);
+    background-color: #29f0ea;
+    border-color: #29f0ea;
     box-shadow: 0 0 0 0.2rem var(--primary-rgba-50);
 }
 
@@ -1067,7 +1067,7 @@ html #header.header-semi-transparent .header-body:before, html #header.header-se
 }
 
 .custom-call-to-action {
-    border-color: var(--primary);
+    border-color: #29f0ea;
 }
 
 @media (max-width: 991px) {
@@ -1077,41 +1077,41 @@ html #header.header-semi-transparent .header-body:before, html #header.header-se
 }
 
 .custom-accordion-style-1 .card .card-title > a.accordion-toggle:not(.collapsed) {
-    color: var(--primary);
+    color: #29f0ea;
 }
 
 .custom-accordion-style-1 .card .card-title > a.accordion-toggle:not(.collapsed):before {
-    border-color: var(--primary);
+    border-color: #29f0ea;
 }
 
 .custom-accordion-style-1 .card .card-title > a.accordion-toggle:not(.collapsed) .custom-accordion-plus:after {
-    border-color: var(--primary);
+    border-color: #29f0ea;
 }
 
 .custom-accordion-style-1 .card .card-title > a .custom-accordion-plus:after {
-    border-color: var(--primary);
+    border-color: #29f0ea;
 }
 
 .thumb-info.custom-thumb-info-style-1:hover .thumb-info-caption {
-    background-color: var(--primary) !important;
+    background-color: #29f0ea !important;
 }
 
 .owl-carousel.custom-dots-style-1 button.owl-dot.active span, .owl-carousel.custom-dots-style-1 button.owl-dot:hover span {
-    border-color: var(--primary);
+    border-color: #29f0ea;
 }
 
 .owl-carousel.custom-dots-style-1 button.owl-dot.active span:before, .owl-carousel.custom-dots-style-1 button.owl-dot:hover span:before {
-    background-color: var(--primary);
+    background-color: #29f0ea;
 }
 
 .team-item .team-infos .share:hover i.fa-share-alt {
-    background-color: var(--primary);
+    background-color: #29f0ea;
 }
 
 .owl-carousel.custom-arrows-style-2 .owl-nav button.owl-prev:before, .owl-carousel.custom-arrows-style-2 .owl-nav button.owl-next:before, .owl-carousel.custom-xs-arrows-style-2 .owl-nav button.owl-prev:before, .owl-carousel.custom-xs-arrows-style-2 .owl-nav button.owl-next:before {
-    border-color: var(--primary);
+    border-color: #29f0ea;
 }
 
 .owl-carousel.custom-arrows-style-2 .owl-nav button.owl-prev:after, .owl-carousel.custom-arrows-style-2 .owl-nav button.owl-next:after, .owl-carousel.custom-xs-arrows-style-2 .owl-nav button.owl-prev:after, .owl-carousel.custom-xs-arrows-style-2 .owl-nav button.owl-next:after {
-    border-color: var(--primary);
+    border-color: #29f0ea;
 }

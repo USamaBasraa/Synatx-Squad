@@ -505,7 +505,7 @@ body {
 }
 
 .custom-btn-style-1:after {
-    border-left-color: var(--primary);
+    border-left-color: #29f0ea;
 }
 
 .custom-btn-style-1:hover:after, .custom-btn-style-1.hover:after {
@@ -517,7 +517,7 @@ body {
 }
 
 .custom-btn-style-1.disabled:after, .custom-btn-style-1:disabled:after {
-    border-left-color: var(--primary);
+    border-left-color: #29f0ea;
 }
 
 .custom-btn-style-1:active:after, .custom-btn-style-1.active:after {
@@ -525,12 +525,12 @@ body {
 }
 
 .custom-svg-btn-style-1:not(.custom-svg-btn-style-1-light):hover .custom-svg-btn-background polygon {
-    stroke: var(--primary);
+    stroke: #29f0ea;
 }
 
 .custom-svg-btn-style-1:not(.custom-svg-btn-style-1-light).custom-svg-btn-style-1-solid .custom-svg-btn-background polygon {
-    fill: var(--primary);
-    stroke: var(--primary);
+    fill: #29f0ea;
+    stroke: #29f0ea;
 }
 
 .custom-svg-btn-style-1:not(.custom-svg-btn-style-1-light).custom-svg-btn-style-1-solid:hover .custom-svg-btn-background polygon, .custom-svg-btn-style-1:not(.custom-svg-btn-style-1-light).custom-svg-btn-style-1-solid:focus .custom-svg-btn-background polygon {
@@ -539,8 +539,8 @@ body {
 }
 
 .btn-link > svg polygon {
-    stroke: var(--primary);
-    fill: var(--primary);
+    stroke: #29f0ea;
+    fill: #29f0ea;
 }
 
 /*
@@ -558,12 +558,12 @@ body {
 * Home Section - What We Do
 */
 .custom-thumb-info-style-1:hover .custom-thumb-info-icon {
-    background: var(--primary) !important;
+    background: #29f0ea !important;
 }
 
 /*
 * Home Section - Testimonials
 */
 .custom-testimonial-style-1.testimonial.testimonial-style-3 blockquote:before {
-    color: var(--primary);
+    color: #29f0ea;
 }

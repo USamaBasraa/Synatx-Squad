@@ -499,11 +499,11 @@ html.sticky-header-active #header .header-top {
 }
 
 .custom-highlight-1.custom-highlight-1-primary:after {
-    background-color: var(--primary);
+    background-color: #29f0ea;
 }
 
 .custom-line {
-    border-bottom-color: var(--primary);
+    border-bottom-color: #29f0ea;
 }
 
 .owl-carousel.nav-arrows-1 .owl-nav .owl-prev, .owl-carousel.nav-arrows-1 .owl-nav .owl-next {
@@ -511,11 +511,11 @@ html.sticky-header-active #header .header-top {
 }
 
 .custom-card-style-1:hover {
-    border-color: var(--primary);
+    border-color: #29f0ea;
 }
 
 .custom-card-style-1:hover .custom-card-style-1-title {
-    color: var(--primary) !important;
+    color: #29f0ea !important;
 }
 
 .custom-card-style-1:hover .custom-card-style-1-link {
@@ -523,7 +523,7 @@ html.sticky-header-active #header .header-top {
 }
 
 .custom-accordion-style-1 > .card .card-header a {
-    background-color: var(--primary);
+    background-color: #29f0ea;
 }
 
 .custom-accordion-style-1 > .card .card-header a:not(.collapsed) {
@@ -535,11 +535,11 @@ html.sticky-header-active #header .header-top {
 }
 
 .custom-accordion-style-1 > .card:hover {
-    border-color: var(--primary) !important;
+    border-color: #29f0ea !important;
 }
 
 .custom-accordion-style-1 > .card:hover .card-header a.collapsed {
-    color: var(--primary) !important;
+    color: #29f0ea !important;
 }
 
 .custom-social-icons li a {
@@ -555,15 +555,15 @@ html.sticky-header-active #header .header-top {
 }
 
 .custom-nav-list-effect-1 > li > a:before {
-    border-left-color: var(--primary);
-    border-right-color: var(--primary);
+    border-left-color: #29f0ea;
+    border-right-color: #29f0ea;
 }
 
 .custom-nav-list-effect-1 > li.active > a, .custom-nav-list-effect-1 > li.open > a, .custom-nav-list-effect-1 > li:hover > a {
-    color: var(--primary) !important;
+    color: #29f0ea !important;
 }
 
 .blog-sidebar button.bg-color-grey {
-    background-color: var(--primary) !important;
+    background-color: #29f0ea !important;
     color: var(--primary-inverse) !important;
 }

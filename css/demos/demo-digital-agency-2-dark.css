@@ -732,7 +732,7 @@ html.mobile-menu-opened.sticky-header-active #header.header-transparent .header-
 }
 
 .custom-btn-with-arrow-primary:after {
-    color: var(--primary) !important;
+    color: #29f0ea !important;
 }
 
 .custom-btn-with-arrow-secondary:after {
@@ -756,7 +756,7 @@ html.mobile-menu-opened.sticky-header-active #header.header-transparent .header-
 }
 
 .custom-title-with-icon-primary:before {
-    color: var(--primary) !important;
+    color: #29f0ea !important;
 }
 
 .custom-title-with-icon-secondary:before {
@@ -787,7 +787,7 @@ html.mobile-menu-opened.sticky-header-active #header.header-transparent .header-
 
 @media (min-width: 992px) {
     #header .header-nav.header-nav-links nav > ul li:hover > a {
-        color: var(--primary) !important;
+        color: #29f0ea !important;
     }
 }
 
@@ -800,7 +800,7 @@ html.mobile-menu-opened.sticky-header-active #header.header-transparent .header-
 }
 
 .custom-list li:before {
-    background-color: var(--primary);
+    background-color: #29f0ea;
 }
 
 .custom-accordion .custom-card-body-collapse {
@@ -808,7 +808,7 @@ html.mobile-menu-opened.sticky-header-active #header.header-transparent .header-
 }
 
 .side-menu-our-work .sort-source li a:before {
-    background-color: var(--primary);
+    background-color: #29f0ea;
 }
 
 #footer {

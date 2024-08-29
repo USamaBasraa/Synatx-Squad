@@ -380,12 +380,12 @@ p {
 }
 
 .custom-social-icons-2 li:hover, .custom-social-icons-big li:hover {
-    border-color: var(--primary);
+    border-color: #29f0ea;
 }
 
 .custom-social-icons-2 li:hover a, .custom-social-icons-big li:hover a {
     background: transparent !important;
-    color: var(--primary) !important;
+    color: #29f0ea !important;
 }
 
 .custom-social-icons-big {
@@ -1182,15 +1182,15 @@ ul.custom-comments-style .comment-block {
 }
 
 .owl-carousel.custom-arrows-style-1 .owl-nav button.owl-prev:before, .owl-carousel.custom-arrows-style-1 .owl-nav button.owl-next:before {
-    border-color: var(--primary);
+    border-color: #29f0ea;
 }
 
 .owl-carousel.custom-arrows-style-1 .owl-nav button.owl-prev:after, .owl-carousel.custom-arrows-style-1 .owl-nav button.owl-next:after {
-    border-color: var(--primary);
+    border-color: #29f0ea;
 }
 
 .custom-social-icons li:hover a {
-    color: var(--primary) !important;
+    color: #29f0ea !important;
 }
 
 .custom-thumb-carousel .img-thumbnail.img-thumbnail-hover-icon:before {
@@ -1202,9 +1202,9 @@ ul.custom-comments-style .comment-block {
 }
 
 .custom-social-icons-2 li:hover, .custom-social-icons-big li:hover {
-    border-color: var(--primary);
+    border-color: #29f0ea;
 }
 
 .custom-social-icons-2 li:hover a, .custom-social-icons-big li:hover a {
-    color: var(--primary) !important;
+    color: #29f0ea !important;
 }

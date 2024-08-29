@@ -609,14 +609,14 @@ html:not(.sticky-header-active) #header.header-semi-transparent-light .header-bo
 * Header
 */
 html #header .header-logo.custom-header-logo:before {
-    background-color: var(--primary);
+    background-color: #29f0ea;
 }
 
 /*
 * Sticky Sidebar
 */
 #sidebar a.active {
-    color: var(--primary) !important;
+    color: #29f0ea !important;
 }
 
 /*
@@ -624,30 +624,30 @@ html #header .header-logo.custom-header-logo:before {
 */
 .thumb-gallery-wrapper .thumb-gallery-thumbs .owl-item:hover,
 .thumb-gallery-wrapper .thumb-gallery-thumbs .owl-item.selected {
-    border-color: var(--primary) !important;
+    border-color: #29f0ea !important;
 }
 
 /*
 * Accordion
 */
 .custom-accordion-style-1 > .card .card-header a:not(.collapsed) {
-    background-color: var(--primary);
+    background-color: #29f0ea;
     color: var(--primary-inverse) !important;
 }
 
 .custom-accordion-style-1 > .card:hover .card-header a.collapsed {
-    color: var(--primary) !important;
+    color: #29f0ea !important;
 }
 
 /*
 * Process
 */
 .custom-process-style-1.process.process-vertical .process-step-circle .process-step-circle-content {
-    color: var(--primary);
+    color: #29f0ea;
 }
 
 .custom-process-style-1.process.process-vertical .process-step:hover .process-step-circle {
-    border-color: var(--primary);
+    border-color: #29f0ea;
 }
 
 .custom-process-style-1.process.process-vertical .process-step:hover .process-step-circle .process-step-circle-content {

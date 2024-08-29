@@ -828,7 +828,7 @@ html.sticky-header-active #header.header-transparent .header-body:not(.header-bo
 /* Custom Colors For SVG's */
 .custom-fill-color-primary,
 .custom-fill-color-primary > svg path {
-    fill: var(--primary) !important;
+    fill: #29f0ea !important;
 }
 
 .custom-fill-color-secondary,
